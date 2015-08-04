@@ -1,1 +1,4 @@
-# odyssey2010.github.com
+# Testbed projects for Technical Expedition
+
+
+* First Kit [protokit] (http://odyssey2010.github.com/protokit)
